@@ -1,0 +1,7 @@
+div .container table .gp_galerie {
+	border: solid 1px black;
+}
+div .container table tr td img{
+	width: 400;
+	height: 300;
+}
